@@ -1,0 +1,20 @@
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.exe.config
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.exe
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.pdb
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.xml
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.frmExample_1.resources
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.Resources.resources
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.vbproj.GenerateResource.Cache
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.exe
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.xml
+C:\Users\m.a.rodriguez2\Desktop\New folder\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.exe.config
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.exe
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.xml
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.exe
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\bin\Debug\Rodriguez_Example_1.xml
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.frmExample_1.resources
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.Resources.resources
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_Example_1\Rodriguez_Example_1\Rodriguez_Example_1\obj\Debug\Rodriguez_Example_1.vbproj.GenerateResource.Cache
