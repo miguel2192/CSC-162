@@ -1,0 +1,10 @@
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\bin\Debug\Rodriguez_Lab2.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\bin\Debug\Rodriguez_Lab2.exe
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\bin\Debug\Rodriguez_Lab2.pdb
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\bin\Debug\Rodriguez_Lab2.xml
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\obj\Debug\Rodriguez_Lab2.frmPrint_Message.resources
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\obj\Debug\Rodriguez_Lab2.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\obj\Debug\Rodriguez_Lab2.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\obj\Debug\Rodriguez_Lab2.exe
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\obj\Debug\Rodriguez_Lab2.xml
+C:\Users\Miguel\Desktop\Rodriguez_Lab2\Rodriguez_Lab2\obj\Debug\Rodriguez_Lab2.pdb

@@ -1,0 +1,21 @@
+C:\Users\m.a.rodriguez2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\m.a.rodriguez2\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_OutputName (2)\Rodriguez_OutputName\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
