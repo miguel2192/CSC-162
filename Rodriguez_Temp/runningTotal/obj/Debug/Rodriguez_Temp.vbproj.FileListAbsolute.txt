@@ -1,0 +1,34 @@
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\bin\Debug\tempConverter.exe.config
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\bin\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\bin\Debug\tempConverter.pdb
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\bin\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\obj\Debug\tempConverter.frmTempConverter.resources
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\obj\Debug\tempConverter.Resources.resources
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\obj\Debug\Rodriguez_Temp.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\obj\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\obj\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\New folder (2)\running final\runningTotal\runningTotal\obj\Debug\tempConverter.pdb
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.pdb
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.pdb
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.frmTempConverter.resources
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_Temp\runningTotal\obj\Debug\Rodriguez_Temp.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.exe.config
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.pdb
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.pdb
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.frmTempConverter.resources
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.Resources.resources
+C:\Users\Miguel\Desktop\New folder\Rodriguez_Temp\runningTotal\obj\Debug\Rodriguez_Temp.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Rodriguez_Temp\Rodriguez_Temp\runningTotal\bin\Debug\tempConverter.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_Temp\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.exe
+C:\Users\Miguel\Desktop\Rodriguez_Temp\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.xml
+C:\Users\Miguel\Desktop\Rodriguez_Temp\Rodriguez_Temp\runningTotal\obj\Debug\tempConverter.pdb

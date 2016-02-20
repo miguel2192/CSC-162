@@ -1,0 +1,44 @@
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\bin\Debug\runningTotal.exe.config
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\bin\Debug\runningTotal.exe
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\bin\Debug\runningTotal.pdb
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\bin\Debug\runningTotal.xml
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\obj\Debug\runningTotal.frmRunningTotal.resources
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\obj\Debug\runningTotal.Resources.resources
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\obj\Debug\runningTotal.vbproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\obj\Debug\runningTotal.exe
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\obj\Debug\runningTotal.xml
+C:\Users\Dennis\Desktop\runningTotal\runningTotal\obj\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\bin\Debug\runningTotal.exe.config
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\obj\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\obj\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\obj\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\bin\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\bin\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\bin\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\obj\Debug\runningTotal.frmRunningTotal.resources
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\obj\Debug\runningTotal.Resources.resources
+C:\Users\Miguel\Desktop\runningTotal\runningTotal\runningTotal\obj\Debug\runningTotal.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\bin\Debug\runningTotal.exe.config
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\obj\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\obj\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\obj\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\bin\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\bin\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\bin\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\obj\Debug\runningTotal.frmRunningTotal.resources
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\obj\Debug\runningTotal.Resources.resources
+C:\Users\Miguel\Desktop\running final\runningTotal\runningTotal\obj\Debug\runningTotal.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\bin\Debug\runningTotal.exe.config
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\obj\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\obj\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\obj\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\bin\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\bin\Debug\runningTotal.pdb
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\bin\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\obj\Debug\runningTotal.frmRunningTotal.resources
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\obj\Debug\runningTotal.Resources.resources
+C:\Users\Miguel\Desktop\New folder\running final\runningTotal\runningTotal\obj\Debug\runningTotal.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\New folder\running final\Rodriguez_runTotalAvg\runningTotal\bin\Debug\runningTotal.exe.config
+C:\Users\Miguel\Desktop\New folder\running final\Rodriguez_runTotalAvg\runningTotal\obj\Debug\runningTotal.exe
+C:\Users\Miguel\Desktop\New folder\running final\Rodriguez_runTotalAvg\runningTotal\obj\Debug\runningTotal.xml
+C:\Users\Miguel\Desktop\New folder\running final\Rodriguez_runTotalAvg\runningTotal\obj\Debug\runningTotal.pdb
