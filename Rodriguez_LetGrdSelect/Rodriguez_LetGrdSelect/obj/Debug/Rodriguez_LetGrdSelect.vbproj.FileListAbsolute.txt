@@ -1,0 +1,10 @@
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\bin\Debug\Rodriguez_LetGrdSelect.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\obj\Debug\Rodriguez_LetGrdSelect.frmLettGrSlect.resources
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\obj\Debug\Rodriguez_LetGrdSelect.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\obj\Debug\Rodriguez_LetGrdSelect.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\bin\Debug\Rodriguez_LetGrdSelect.exe
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\bin\Debug\Rodriguez_LetGrdSelect.pdb
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\bin\Debug\Rodriguez_LetGrdSelect.xml
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\obj\Debug\Rodriguez_LetGrdSelect.exe
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\obj\Debug\Rodriguez_LetGrdSelect.xml
+C:\Users\Miguel\Desktop\Rodriguez_LetGrdSelect\Rodriguez_LetGrdSelect\obj\Debug\Rodriguez_LetGrdSelect.pdb

@@ -1,0 +1,15 @@
+C:\Users\m.a.rodriguez2\AppData\Local\Temporary Projects\Rodriguez_LetterGrade\bin\Debug\Rodriguez_LetterGrade.exe.config
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\bin\Debug\Rodriguez_LetterGrade.exe.config
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\bin\Debug\Rodriguez_LetterGrade.exe
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\bin\Debug\Rodriguez_LetterGrade.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\bin\Debug\Rodriguez_LetterGrade.xml
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.Resources.resources
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.vbproj.GenerateResource.Cache
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.exe
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.xml
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.frmLetterGrade.resources
+C:\Users\Miguel\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\Rodriguez_LetterGrade\bin\Debug\Rodriguez_LetterGrade.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.exe
+C:\Users\Miguel\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.xml
+C:\Users\Miguel\Desktop\Rodriguez_LetterGrade\Rodriguez_LetterGrade\Rodriguez_LetterGrade\obj\Debug\Rodriguez_LetterGrade.pdb
