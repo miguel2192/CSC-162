@@ -1,0 +1,30 @@
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.exe.config
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.exe
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.pdb
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.xml
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.frmArray.resources
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.Resources.resources
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.vbproj.GenerateResource.Cache
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.exe
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.xml
+c:\users\m.a.rodriguez2\documents\visual studio 2013\Projects\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.exe.config
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.exe
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.xml
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.exe
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.pdb
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.xml
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.frmArray.resources
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.Resources.resources
+C:\Users\m.a.rodriguez2\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.exe
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.xml
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.pdb
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.exe
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.pdb
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\bin\Debug\Rodriguez_ArrayFillRetrieve.xml
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.frmArray.resources
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_ArrayFillRetrieve\Rodriguez_ArrayFillRetrieve\obj\Debug\Rodriguez_ArrayFillRetrieve.vbproj.GenerateResource.Cache
