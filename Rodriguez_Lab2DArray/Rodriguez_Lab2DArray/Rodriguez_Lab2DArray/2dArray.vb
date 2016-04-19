@@ -7,7 +7,8 @@
 'Description:   This program creates a 2d array. It them lets the user 
 '   store the number of votes for four diferrent cities and three 
 '   different voting groups in the United States. It then proceeds
-'   and prints out everything in a table fashion to the user
+'   and prints out everything in a table fashion to the user.
+'   a button to exit the program is provided to the user.
 '
 'Initial Algorithm:
 '   1.  Initialize a voter group array to 3
@@ -90,7 +91,7 @@ Public Class frm2dArray
         For col = 1 To 3 'print column header
 
             'print each Product name on field width of 10 and stay on same line
-            outputString = outputString & String.Format("{0, 15}", voterGroup(col))
+            outputString = outputString & String.Format("{0, 16}", voterGroup(col))
         Next col
 
         'print outputString in Listbox
@@ -103,7 +104,7 @@ Public Class frm2dArray
             For col = 1 To 3 'cycle through it's columns
                 'print product of row x col on field width of 4
                 'stay on same line for each column value
-                outputString = outputString + String.Format("{0, 10}", Votes(row, col))
+                outputString = outputString + String.Format("{0,11}", Votes(row, col))
             Next col
             'print outputString in Listbox
             List1.Items.Add(outputString) 'Move down to next row
