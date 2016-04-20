@@ -1,0 +1,14 @@
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\bin\Debug\Rodriguez_MathMultForms.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\bin\Debug\Rodriguez_MathMultForms.exe
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\bin\Debug\Rodriguez_MathMultForms.pdb
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\bin\Debug\Rodriguez_MathMultForms.xml
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.frmMain.resources
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.exe
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.xml
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.pdb
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.add.resources
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.divide.resources
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.multiply.resources
+C:\Users\Miguel\Desktop\Rodriguez_MathMultForms\Rodriguez_MathMultForms\obj\Debug\Rodriguez_MathMultForms.substract.resources
