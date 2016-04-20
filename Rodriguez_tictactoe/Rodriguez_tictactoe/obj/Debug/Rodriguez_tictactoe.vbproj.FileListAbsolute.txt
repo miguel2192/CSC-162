@@ -1,0 +1,10 @@
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\bin\Debug\Rodriguez_tictactoe.exe.config
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\bin\Debug\Rodriguez_tictactoe.exe
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\bin\Debug\Rodriguez_tictactoe.pdb
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\bin\Debug\Rodriguez_tictactoe.xml
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\obj\Debug\Rodriguez_tictactoe.frmTic.resources
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\obj\Debug\Rodriguez_tictactoe.Resources.resources
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\obj\Debug\Rodriguez_tictactoe.vbproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\obj\Debug\Rodriguez_tictactoe.exe
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\obj\Debug\Rodriguez_tictactoe.xml
+C:\Users\Miguel\Desktop\Rodriguez_tictactoe\Rodriguez_tictactoe\obj\Debug\Rodriguez_tictactoe.pdb
