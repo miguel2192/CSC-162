@@ -51,13 +51,13 @@ Public Class frmTic
     ' Repeats previous steps for each button
     ' creates a subprocedure with a ByRef counter
     ' each time the user clicks a button counter increase by one
-    ' IF 
-    ' Allows the user to exit the program by pressing a button
-    ' Allows the user to repeat the program and initilizes the game
     ' checks to see if somebody won each time a button is click
     ' IF counter = 9
     '   Displays "Its's a tie!"
     ' END IF
+    ' Allows the user to exit the program by pressing a button
+    ' Allows the user to repeat the program and initilizes the game
+    
     'global constants
 
     'global variables
